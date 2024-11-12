@@ -1,7 +1,7 @@
 # Hi, there! 👋 
 👩‍💻 I am Nataly and I am a Python Backend Developer. I enjoy coding and learning new tools and technologies.
 
-- 🌱 I’m currently exporing FastAPI and Parsing.
+🌱 I’m currently exporing FastAPI and Parsing.
 
 ### 🛠️ My current tools 
 
@@ -23,9 +23,9 @@
   ###
 
 <div align="left">
-  <a href="https://t.me/Nataly_heito" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /> </a> 
-   <a href="mailto:dudina.natalja@rambler.ru" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  /> </a> 
-   <a href="https://www.linkedin.com/in/natalia-dudina-0x7c3" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a> 
+  <a href="https://t.me/Nataly_heito" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0088cc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  /> </a> 
+   <a href="mailto:dudina.natalja@rambler.ru" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="email logo"  /> </a> 
+   <a href="https://www.linkedin.com/in/natalia-dudina-0x7c3" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /> </a> 
 </div>
 
 ###
