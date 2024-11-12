@@ -21,6 +21,7 @@
   ------------------------------------------
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliadudina&show_icons=true&locale=en&layout=compact" alt="nataliadudina" /></p>
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliadudina&theme=solarized_dark)
 
   ###
 
