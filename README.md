@@ -19,9 +19,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
   ------------------------------------------
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliadudina&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en&layout=compact" alt="nataliadudina" /></p>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nataliadudina&show_icons=true&locale=en&layout=compact" alt="nataliadudina" /></p>
-  
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nataliadudina&theme=city_lights) 
 
   ###
