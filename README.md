@@ -1,11 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🐍+Python+Backend+Developer)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🐍+Python+Backend+Developer)](https://git.io/typing-svg) -->
+
+<a href="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🐍+Python+Backend+Developer" style="float: right;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=🐍+Python+Backend+Developer" alt="Typing SVG">
+</a>
+
 
 # Hi, there! 👋 
 👩‍💻 I am Nataly and I am a Python Backend Developer. I enjoy coding and learning new tools and technologies.
 
 🌱 I’m currently exporing FastAPI and Parsing.
 
-### 🛠️ My current tools 
+### 🛠️ My present tools 
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
