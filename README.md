@@ -8,7 +8,7 @@
 # Hi, there! 👋 
 👩‍💻 I am Nataly and I am a Python Backend Developer. I enjoy coding and learning new tools and technologies.
 
-🌱 I’m currently exploring FastAPI and Parsing.
+🌱 I’m currently exploring FastAPI and multithreading.
 
 ### 🛠️ My present tools 
 
